@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v1.0.0 (2025-12-09)
+
+### Features
+
+- Breaking change
+  ([`0cff472`](https://github.com/lincheoll/test-semantic-release-py/commit/0cff472464d633bab3185cf5ff2cf235143ceaef))
+
+
 ## v0.3.0 (2025-12-09)
 
 ### Features
