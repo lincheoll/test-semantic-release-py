@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v2.1.1 (2025-12-09)
+
+### Hotfix
+
+- Tt
+  ([`3408b93`](https://github.com/lincheoll/test-semantic-release-py/commit/3408b9375cc1018b83b8d7378eaebfff725adab4))
+
+
 ## v2.1.0 (2025-12-09)
 
 ### Chores
