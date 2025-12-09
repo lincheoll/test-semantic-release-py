@@ -1,6 +1,27 @@
 # CHANGELOG
 
 
+## v2.1.0 (2025-12-09)
+
+### Chores
+
+- Chore test
+  ([`73b65dc`](https://github.com/lincheoll/test-semantic-release-py/commit/73b65dcef1d4aedbbda67cc60bde8c1f1956adc8))
+
+- Test
+  ([`c8d5418`](https://github.com/lincheoll/test-semantic-release-py/commit/c8d541842f1d9aa6fca82a8079d0c9fc859f60d9))
+
+### Features
+
+- Test
+  ([`4c54eec`](https://github.com/lincheoll/test-semantic-release-py/commit/4c54eec906c9317af77b108deb5fe5905e43553b))
+
+### Refactoring
+
+- Refactor test
+  ([`93ebd2d`](https://github.com/lincheoll/test-semantic-release-py/commit/93ebd2d75cb3f40ce3f8014bbeb6c9687fbda8eb))
+
+
 ## v2.0.0 (2025-12-09)
 
 ### Features
