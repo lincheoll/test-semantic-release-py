@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.0 (2025-12-09)
+
+### Features
+
+- Feat test
+  ([`db6a550`](https://github.com/lincheoll/test-semantic-release-py/commit/db6a550f7cf64626cb083357247bd0b7e35c02fb))
+
+
 ## v0.1.0 (2025-12-09)
 
 ### Chores
