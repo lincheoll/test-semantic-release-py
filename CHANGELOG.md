@@ -1,6 +1,16 @@
 # CHANGELOG
 
 
+## v0.3.0 (2025-12-09)
+
+### Features
+
+- Feat test
+  ([`5c60f18`](https://github.com/lincheoll/test-semantic-release-py/commit/5c60f186bbaf9bef124f4179af3d06df62ffef3b))
+
+BREAKING CNAHGE: test
+
+
 ## v0.2.2 (2025-12-09)
 
 ### Hotfix
