@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.2 (2025-12-09)
+
+### Hotfix
+
+- Hotfix test
+  ([`9c3034f`](https://github.com/lincheoll/test-semantic-release-py/commit/9c3034fd3bebdb5b0f99fa002df5a9a5d4a71222))
+
+
 ## v0.2.1 (2025-12-09)
 
 ### Bug Fixes
