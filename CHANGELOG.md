@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.1 (2025-12-09)
+
+### Bug Fixes
+
+- Fix
+  ([`c7aedfa`](https://github.com/lincheoll/test-semantic-release-py/commit/c7aedfa4a9b865661a9441062e9939cfd28feb49))
+
+
 ## v0.2.0 (2025-12-09)
 
 ### Features
