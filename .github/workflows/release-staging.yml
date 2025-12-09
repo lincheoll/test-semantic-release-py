@@ -1,0 +1,14 @@
+name: Create Pre-Release for Staging
+
+on:
+  push:
+    branches:
+      - staging
+
+jobs:
+  release:
+    uses: lincheoll/test-workflows/.github/workflows/release-staging-py.yml@main
+    with:
+      python_version: '3.13'
+      node_version: '22'
+    secrets: inherit

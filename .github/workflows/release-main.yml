@@ -1,0 +1,14 @@
+name: Create Release for Main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    uses: lincheoll/test-workflows/.github/workflows/release-main-py.yml@main
+    with:
+      python_version: '3.13'
+      node_version: '22'
+    secrets: inherit
