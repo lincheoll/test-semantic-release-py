@@ -1,6 +1,20 @@
 # CHANGELOG
 
 
+## v4.0.0 (2025-12-11)
+
+### Features
+
+- Aa
+  ([`2005a45`](https://github.com/lincheoll/test-semantic-release-py/commit/2005a4563013d292d955e6879b32343067d7f221))
+
+BREAKING CHANGE:test
+
+### BREAKING CHANGES
+
+- Test
+
+
 ## v3.0.0 (2025-12-11)
 
 ### Features
