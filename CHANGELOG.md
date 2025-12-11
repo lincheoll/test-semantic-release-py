@@ -1,6 +1,25 @@
 # CHANGELOG
 
 
+## v5.0.0 (2025-12-11)
+
+### Features
+
+- 1
+  ([`1f7c91c`](https://github.com/lincheoll/test-semantic-release-py/commit/1f7c91c02b44bdb2ab5ba8f08fb7d7cf78dbacb3))
+
+- 1
+  ([`6e65408`](https://github.com/lincheoll/test-semantic-release-py/commit/6e65408056f0814fc6661d1df737ad49aa519d37))
+
+- 2
+  ([`3a5dcb8`](https://github.com/lincheoll/test-semantic-release-py/commit/3a5dcb851f19b4572fdbba364a5a041b9c1649f1))
+
+- Aa
+  ([`e7d1ac4`](https://github.com/lincheoll/test-semantic-release-py/commit/e7d1ac42aefd21af03ee0cab565b564c82b51ea2))
+
+BREAKING CHANGE:test
+
+
 ## v4.0.0 (2025-12-11)
 
 ### Features
