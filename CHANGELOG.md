@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v2.2.0 (2025-12-11)
+
+### Features
+
+- **prompt**: Test
+  ([`671a2c3`](https://github.com/lincheoll/test-semantic-release-py/commit/671a2c36045ca11659f51fb1daf956475a754a8d))
+
+
 ## v2.1.1 (2025-12-09)
 
 ### Hotfix
